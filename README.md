@@ -1,2 +1,1 @@
-# FakeApiFlappiBird
- 
+# flappy-bird
